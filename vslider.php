@@ -534,9 +534,9 @@ function vslider_main()
 {
     ?>
     <div class="wrap" style="width:820px;"><div id="icon-options-general" class="icon32"><br /></div>
-    <h2>vSlider 4.1.1 Settings</h2>
+    <h2>vSlider 4.1.2 Settings</h2>
     <div class="metabox-holder" style="width: 820px; float:left;">
-    <small>Welcome to vSlider 4.1.1</small>
+    <small>Welcome to vSlider 4.1.2</small>
      <div class="inside">
      <br />
      </div>
@@ -718,7 +718,7 @@ $option=$_GET['edit'];
     $option='vslider_options';
     }
 ?>
-<h2><?php _e("vSlider 4.1.1 Edit Options Page [ ".$option." ]"); ?></h2>
+<h2><?php _e("vSlider 4.1.2 Edit Options Page [ ".$option." ]"); ?></h2>
 
 
 <form method="post" action="options.php">
